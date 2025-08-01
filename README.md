@@ -18,7 +18,7 @@ A simple and elegant coffee shop menu built with HTML, CSS, and JavaScript. Brow
 
 ## 📸 Screenshots
 
-![Menu Screenshot](./assets/menu-preview.png)
+<img src="./assets/menu-preview.png" alt="Menu Screenshot" width="400"/>
 ---
 
 ## 🚀 Tech Stack
