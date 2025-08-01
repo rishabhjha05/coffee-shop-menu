@@ -25,7 +25,6 @@ A simple and elegant coffee shop menu built with HTML, CSS, and JavaScript. Brow
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
 
 ---
 
