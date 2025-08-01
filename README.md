@@ -18,8 +18,7 @@ A simple and elegant coffee shop menu built with HTML, CSS, and JavaScript. Brow
 
 ## 📸 Screenshots
 
-![Menu Screenshot](https://shop-menu-rj.netlify.app/assets/img/menu-preview.png) <!-- Replace with actual screenshot if available -->
-
+![Menu Screenshot] (./assets/menu-preview.png)
 ---
 
 ## 🚀 Tech Stack
