@@ -3,7 +3,7 @@
 
 A simple and elegant coffee shop menu built with HTML, CSS, and JavaScript. Browse categories, view item details, and filter items based on your cravings.
 
-🔗 <a href="https://shop-menu-rj.netlify.app/" target="_top">Deployed_link</a>
+🔗 <a href="https://shop-menu-rj.netlify.app/" target="_blank">Deployed_link</a>
 
 ---
 
